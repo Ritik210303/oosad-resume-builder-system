@@ -41,12 +41,11 @@ The system contains multiple actors such as **Admin**, **End User**, **Template 
 
 ```
 oosad-resume-builder-system/
-├── docs/
-│   ├── OOSAD_Case_Study.pdf
-│   ├── use_case_diagram.pdf
-│   ├── activity_diagram.pdf
-│   ├── class_diagram.pdf
-│   ├── sequence_diagram.pdf
+│── OOSAD_Case_Study.pdf
+│── use_case_diagram.pdf
+│── activity_diagram.pdf
+│── class_diagram.pdf
+│── sequence_diagram.pdf
 └── README.md
 ```
 
